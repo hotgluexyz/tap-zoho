@@ -3,3 +3,5 @@ output/
 config/
 test/
 *.docx
+*.egg-info
+.secrets

@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
   name="tap-zoho",
-  version="0.1.0",
+  version="0.1.1",
   description="Revlock tap for extracting data from ZOHO CRM",
   author="Stitch",
   url="http://singer.io",

@@ -33,7 +33,8 @@ ZOHO_UNSUPPORTED_API_MODULES = {
     'Social',
     'Visits',
     'Actions_Performed',
-    'Events'
+    'Events',
+    'Projects'
 }
 
 ZOHO_STANDARD_MODULES = {

@@ -10,7 +10,7 @@ import json
 import os
 import tempfile
 import shutil
-import tap_zoho.zoho
+import tap_zoho.zoho as zoho
 from singer import metadata, metrics
 
 from tap_zoho.sync import get_stream_version, sync_records
